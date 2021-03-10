@@ -23,3 +23,6 @@ func main() {
 		fmt.Printf("%s", b)
 	}
 }
+
+//hget https://curl.se/ca/cacert-2021-01-19.pem >/sys/lib/tls/ca.pem
+
